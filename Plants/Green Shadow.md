@@ -1,1 +1,1 @@
-![decklist](../!Images/P GS Beans.PNG)
+![decklist](../!Images/P%20GS%20Beans.PNG)
