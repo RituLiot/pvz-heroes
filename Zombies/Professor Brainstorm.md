@@ -2,7 +2,7 @@
 ![](../!Images/Heroes/Professor_BrainstormH.png)
 * [Binary Stars](#binary-stars)
 * [Dancers](#dancers)
-* [Mustache Dancers](#mustache-dancers)
+* [Mustached Dancers](#mustache-dancers)
 * [Tricky Gargantuars](#tricky-gargantuars)
 
 ## [Binary Stars](#professor-brainstorm)
@@ -11,7 +11,7 @@
 ## [Dancers](#professor-brainstorm)
 ![decklist](../!Images/Z%20PB%20Dancing-Midrange.PNG)
 
-## [Mustache Dancers](#professor-brainstorm)
+## [Mustached Dancers](#professor-brainstorm)
 ![decklist](../!Images/Z%20PB%20Dancing-Mustache.PNG)
 
 ## [Tricky Gargantuars](#professor-brainstorm)
