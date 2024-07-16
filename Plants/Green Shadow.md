@@ -9,14 +9,14 @@
 ## [Aggro Peas ★★★](#green-shadow)
 ![decklist](../!Images/P%20GS%20Aggro-Peas.PNG)
 
-## Beans ★★★
+## [Beans ★★★](#green-shadow)
 ![decklist](../!Images/P%20GS%20Beans.PNG)
 
-## Control ★★
+## [Control ★★](#green-shadow)
 ![decklist](../!Images/P%20GS%20Control.PNG)
 
-## Leaves ★
+## [Leaves ★](#green-shadow)
 ![decklist](../!Images/P%20GS%20Leaves.PNG)
 
-## Tempo/Value ★★
+## [Tempo/Value ★★](#green-shadow)
 ![decklist](../!Images/P%20GS%20Aggro-Control.PNG)
