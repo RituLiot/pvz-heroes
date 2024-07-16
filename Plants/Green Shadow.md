@@ -6,7 +6,7 @@
 * [Leaves ★](#leaves-)
 * [Tempo/Value ★★](#tempovalue-)
 
-## Aggro Peas ★★★
+## [Aggro Peas ★★★](#green-shadow)
 ![decklist](../!Images/P%20GS%20Aggro-Peas.PNG)
 
 ## Beans ★★★
