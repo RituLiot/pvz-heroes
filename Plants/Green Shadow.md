@@ -1,10 +1,10 @@
 # Green Shadow
 ![](../!Images/Heroes/Green_ShadowH.png)
-* [Beans](#beans-)
-* [Aggro Peas](#aggro-peas-)
-* [Control](#control-)
-* [Tempo/Value](#tempovalue-)
-* [Leaves](#leaves-)
+* [Aggro Peas ★★★](#aggro-peas-)
+* [Beans ★★★](#beans-)
+* [Control ★★](#control-)
+* [Leaves ★](#leaves-)
+* [Tempo/Value ★★](#tempovalue-)
 
 ## Beans ★★★
 ![decklist](../!Images/P%20GS%20Beans.PNG)
