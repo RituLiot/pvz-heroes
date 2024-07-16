@@ -2,7 +2,7 @@
 ![](../!Images/Heroes/Professor_BrainstormH.png)
 * [Binary Stars](#binary-stars)
 * [Dancers](#dancers)
-* [Mustache Dancers](#mustach-edancers)
+* [Mustache Dancers](#mustache-dancers)
 * [Tricky Gargantuars](#tricky-gargantuars)
 
 ## [Binary Stars](#professor-brainstorm)
