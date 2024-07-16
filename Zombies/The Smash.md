@@ -1,5 +1,5 @@
 # The Smash
-![](../!Images/Heroes/The%20SmashH.png)
+![](../!Images/Heroes/The_SmashH.png)
 * [Buff Professionals](#buff-professionals)
 * [Evolution](#evolution)
 * [Hunt](#hunt)
