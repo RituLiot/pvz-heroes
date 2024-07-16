@@ -2,7 +2,7 @@
 ![](../!Images/Heroes/RoseH.png)
 * [Amphibious](#amphibious)
 * [Beans Flowers](#beans-flowers)
-* [Dinosaur-Ramp](#dinosaur-ramp)
+* [Dinosaur Ramp](#dinosaur-ramp)
 * [Heal Beans](#heal-beans)
 
 ## [Amphibious](#rose)
@@ -11,7 +11,7 @@
 ## [Beans Flowers](#rose)
 ![decklist](../!Images/P%20RO%20Beans-Flowers.PNG)
 
-## [Dinosaur-Ramp](#rose)
+## [Dinosaur Ramp](#rose)
 ![decklist](../!Images/P%20RO%20Dinosaur-Ramp.PNG)
 
 ## [Heal Beans](#rose)
