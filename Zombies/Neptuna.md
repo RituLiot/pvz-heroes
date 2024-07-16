@@ -6,13 +6,13 @@
 * [Swarm](#swarm)
 
 ## [Control Graves](#neptuna)
-![decklist](../!Images/Z%20%NE20Control-Graves.PNG)
+![decklist](../!Images/Z%20NE%20Control-Graves.PNG)
 
 ## [Pirates](#neptuna)
-![decklist](../!Images/Z%20%NE20Pirates.PNG)
+![decklist](../!Images/Z%20NE%20Pirates.PNG)
 
 ## [Sports Control](#neptuna)
-![decklist](../!Images/Z%20%NE20Sport-Control.PNG)
+![decklist](../!Images/Z%20NE%20Sport-Control.PNG)
 
 ## [Swarm](#neptuna)
-![decklist](../!Images/Z%20%NE20Swarm.PNG)
+![decklist](../!Images/Z%20NE%20Swarm.PNG)
