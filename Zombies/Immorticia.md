@@ -12,7 +12,7 @@
 ![decklist](../!Images/Z%20IM%20Hunt.PNG)
 
 ## [Teleport Zombot](#immorticia)
-![decklist](../!Images/Z%20IM%20Teleport-Zombot.PNG)
+![decklist](../!Images/Z%20IM%20Teleport%20Zombot.PNG)
 
 ## [Tricks](#immorticia)
 ![decklist](../!Images/Z%20IM%20Tricks.PNG)
