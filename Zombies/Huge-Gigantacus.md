@@ -3,4 +3,4 @@
 * [Imp Control](#imp-control)
 
 ## [Imp Control](#huge-gigantacus)
-![decklist](../!Images/Z%20%20Imp-Control.PNG)
+![decklist](../!Images/Z%20HG%20Imp-Control.PNG)
