@@ -1,10 +1,10 @@
 # Nightcap
 ![](../!Images/Heroes/NightcapH.png)
+* [Buff Threepeater](#buff-threepeater)
 * [Cyclecap](#cyclecap)
 * [Dinosaurs](#dinosaurs)
 * [Double Berries](#double-berries)
 * [Transform](#transform)
-* [Buff Threepeater](#buff-threepeater)
 
 ## [Buff Threepeater](#nightcap)
 ![decklist](../!Images/P%20NC%20Buff-Threepeater.PNG)
