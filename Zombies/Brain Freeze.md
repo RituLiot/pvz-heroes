@@ -1,5 +1,5 @@
 # Brain Freeze
-![](../!Images/Heroes/Brain-FreezeH.png)
+![](../!Images/Heroes/Brain_FreezeH.png)
 * [Control Evolution](#control-evolution)
 * [Grave Zombot](#grave-zombot)
 * [Pets](#pets)
