@@ -1,10 +1,10 @@
 # Captain Combustible
 ![](../!Images/Heroes/Captain_CombustibleH.png)
-* [Aggro](#aggro)
+* [Aggro ★★★](#aggro)
 * [Conjure Transform](#conjure-transform)
-* [Control](#control)
-* [Double Peas](#double-peas)
-* [Environments](#environments)
+* [Control ★](#control)
+* [Double Peas ★★](#double-peas)
+* [Environments ★★★](#environments)
 
 ## [Aggro](#captain-combustible)
 ![decklist](../!Images/P%20CC%20Aggro.PNG)
