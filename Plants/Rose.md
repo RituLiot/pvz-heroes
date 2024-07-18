@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01e59302-edf5-49ae-9c4d-d7bc9d440afc)# Rose
+# Rose
 ![](../!Images/Heroes/RoseH.png)
 * [Amphibious ★★](#amphibious)
 * [Beans Flowers ★★](#beans-flowers)
