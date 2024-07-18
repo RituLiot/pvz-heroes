@@ -1,7 +1,7 @@
 # Captain Combustible
 ![](../!Images/Heroes/Captain_CombustibleH.png)
 * [Aggro ★★★](#aggro)
-* [Conjure Transform](#conjure-transform)
+* [Conjure Transform ★★](#conjure-transform)
 * [Control ★](#control)
 * [Double Peas ★★](#double-peas)
 * [Environments ★★★](#environments)
