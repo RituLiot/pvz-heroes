@@ -2,7 +2,7 @@
 ![](../!Images/Heroes/ImpfinityH.png)
 * [Aggro](#aggro)
 * [Dancers](#dancers)
-* [Face](#face)
+* [Face ★★★](#face)
 * [Graves](#graves)
 * [Splash](#splash)
 * [Swarm](#swarm)
