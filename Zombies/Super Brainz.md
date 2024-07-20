@@ -1,7 +1,7 @@
 # Super Brainz
 ![](../!Images/Heroes/Super_BrainzH.png)
 * [Bounce Mill](#bounce-mill)
-* [Dinosaurs Graves](#dinosaurs-graves)
+* [Dinosaurs Graves ★★★★](#dinosaurs-graves)
 * [Mime Raptor](#mime-raptor)
 * [Mustached Scientists](#mustached-scientists)
 * [Tricks](#tricks)
