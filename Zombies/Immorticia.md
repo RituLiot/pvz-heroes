@@ -3,7 +3,7 @@
 * [Evolution](#evolution)
 * [Hunt](#hunt)
 * [Teleport Zombot](#teleport-zombot)
-* [Tricks](#tricks)
+* [Tricks ★★★★](#tricks)
 
 ## [Evolution](#immorticia)
 ![decklist](../!Images/Z%20IM%20Evolution.PNG)
