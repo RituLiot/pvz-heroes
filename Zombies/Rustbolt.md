@@ -1,7 +1,7 @@
 # Rustbolt
 ![](../!Images/Heroes/RustboltH.png)
 * [Gargantuars](#gargantuars)
-* [Mustached Professionals](#mustached-professionals)
+* [Mustached Professionals ★★★★](#mustached-professionals)
 * [Sports](#sports)
 * [Transform](#transform)
 
