@@ -2,7 +2,7 @@
 ![](../!Images/Heroes/Brain_FreezeH.png)
 * [Control Evolution](#control-evolution)
 * [Grave Zombot](#grave-zombot)
-* [Pets](#pets)
+* [Pets ★★](#pets)
 * [Pirates](#pirates)
 
 ## [Control Evolution](#brain-freeze)
