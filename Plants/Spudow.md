@@ -5,7 +5,7 @@
 * [Environments Midrange](#environments-midrange)
 * [Mushrooms](#mushrooms)
 * [Roots](#roots)
-* [Splash](#splash)
+* [Splash ★★★](#splash)
 
 ## [Buff](#spudow)
 ![decklist](../!Images/P%20SP%20Buff.PNG)
