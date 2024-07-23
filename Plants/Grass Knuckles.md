@@ -1,8 +1,8 @@
 # Grass Knuckles
 ![](../!Images/Heroes/Grass_KnucklesH.png)
-* [Amphibious](#amphibious)
-* [Dinosaur Roots](#dinosaur-roots)
-* [Three-Nut](#three-nut)
+* [Amphibious ★](#amphibious)
+* [Dinosaur Roots ★★](#dinosaur-roots)
+* [Three-Nut ★★★](#three-nut)
 
 ## [Amphibious](#grass-knuckles)
 ![decklist](../!Images/P%20GK%20Amphibious.PNG)
