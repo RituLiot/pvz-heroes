@@ -4,8 +4,8 @@
 * [Dancers](#dancers)
 * [Face ★★★](#face)
 * [Graves](#graves)
-* [Splash](#splash)
-* [Swarm](#swarm)
+* [Splash ★★★](#splash)
+* [Swarm ★★](#swarm)
 
 ## [Aggro](#impfinity)
 ![decklist](../!Images/Z%20IF%20Aggro.PNG)
