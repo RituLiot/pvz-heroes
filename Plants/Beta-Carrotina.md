@@ -2,8 +2,8 @@
 ![](../!Images/Heroes/Beta-CarrotinaH.png)
 * [Amphibious Midrange](#amphibious-midrange)
 * [Evolution](#evolution)
-* [Freeze](#freeze)
-* [Go-Nuts](#go-nuts)
+* [Freeze ★★](#freeze)
+* [Go-Nuts ★★★](#go-nuts)
 * [Pecanolith](#pecanolith)
 
 ## [Amphibious Midrange](#beta-carrotina)
