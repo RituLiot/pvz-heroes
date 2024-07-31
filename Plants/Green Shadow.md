@@ -1,9 +1,9 @@
 # Green Shadow
 ![](../!Images/Heroes/Green_ShadowH.png)
 * [Aggro Peas ★★](#aggro-peas)
-* [Beans](#beans)
+* [Beans ★★★](#beans)
 * [Control](#control)
-* [Leaves](#leaves)
+* [Leaves ★★](#leaves)
 * [Tempo/Value](#tempovalue)
 
 ## [Aggro Peas](#green-shadow)
