@@ -7,5 +7,5 @@
 Source: https://youtu.be/6C6zE-BqfNo?si=5VXtP6pDYpfusy-X
 ![decklist](../!Images/Z%20HG%20Gargantuars.png)
 
-## [Imp Control](#huge-gigantacus)png
+## [Imp Control](#huge-gigantacus)
 ![decklist](../!Images/Z%20HG%20Imp-Control.PNG)
