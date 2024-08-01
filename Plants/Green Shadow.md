@@ -2,9 +2,9 @@
 ![](../!Images/Heroes/Green_ShadowH.png)
 * [Aggro Peas ★★](#aggro-peas)
 * [Beans ★★★](#beans)
-* [Control](#control)
+* [Control ★★](#control)
 * [Leaves ★★](#leaves)
-* [Tempo/Value](#tempovalue)
+* [Tempo/Value ★★★](#tempovalue)
 
 ## [Aggro Peas](#green-shadow)
 ![decklist](../!Images/P%20GS%20Aggro-Peas.PNG)
