@@ -1,7 +1,7 @@
 # Nightcap
 ![](../!Images/Heroes/NightcapH.png)
 * [Buff Threepeater](#buff-threepeater)
-* [Cyclecap](#cyclecap)
+* [Cyclecap ★★★★★](#cyclecap)
 * [Dinosaurs](#dinosaurs)
 * [Double Berries](#double-berries)
 * [Transform](#transform)
