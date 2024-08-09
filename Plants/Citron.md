@@ -1,8 +1,8 @@
 # Citron
 ![](../!Images/Heroes/CitronH.png)
 * [Aggro](#aggro)
-* [Buff](#buff)
-* [Nuts](#nuts)
+* [Buff ★★★](#buff)
+* [Nuts ★★](#nuts)
 
 ## [Aggro](#citron)
 ![decklist](../!Images/P%20CI%20Aggro.PNG)
