@@ -1,7 +1,7 @@
 # Huge-Gigantacus
 ![](../!Images/Heroes/Huge-GigantacusH.png)
-* [Gargantuars](#gargantuars)
-* [Imp Control](#imp-control)
+* [Gargantuars ★★★★](#gargantuars)
+* [Imp Control ★★★](#imp-control)
 
 ## [Gargantuars](#huge-gigantacus)
 Source: https://youtu.be/6C6zE-BqfNo?si=5VXtP6pDYpfusy-X
