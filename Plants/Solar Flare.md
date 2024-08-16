@@ -1,6 +1,6 @@
 # Solar Flare
 ![](../!Images/Heroes/Solar_FlareH.png)
-* [Berries](#berries)
+* [Berries ★★★★](#berries)
 * [Control (weird)](#control)
 * [Double](#double)
 * [Evolution](#evolution)
