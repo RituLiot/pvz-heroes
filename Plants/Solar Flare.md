@@ -1,10 +1,10 @@
 # Solar Flare
 ![](../!Images/Heroes/Solar_FlareH.png)
 * [Berries ★★★★](#berries)
-* [Control (weird)](#control)
-* [Double](#double)
-* [Evolution](#evolution)
-* [Mushrooms](#mushrooms)
+* [Control (weird) ★★](#control)
+* [Double ★★★](#double)
+* [Evolution ★★★](#evolution)
+* [Mushrooms ★★](#mushrooms)
 
 ## [Berries](#solar-flare)
 ![decklist](../!Images/P%20SF%20Berries.PNG)
