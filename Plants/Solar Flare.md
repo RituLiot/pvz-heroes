@@ -18,5 +18,8 @@
 ## [Evolution](#solar-flare)
 ![decklist](../!Images/P%20SF%20Evolution.PNG)
 
+## [Heal Berries](#solar-flare)
+![decklist](../!Images/P%20SF%20Heal%20Berries.PNG)
+
 ## [Mushrooms](#solar-flare)
 ![decklist](../!Images/P%20SF%20Mushrooms.PNG)
