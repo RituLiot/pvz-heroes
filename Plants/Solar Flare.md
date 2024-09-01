@@ -4,6 +4,7 @@
 * [Control (weird) ★★](#control)
 * [Double ★★★](#double)
 * [Evolution ★★★](#evolution)
+* [Heal Berries](#heal-berries)
 * [Mushrooms ★★](#mushrooms)
 
 ## [Berries](#solar-flare)
