@@ -4,7 +4,7 @@
 * [Beans Flowers ★★](#beans-flowers)
 * [Dinosaur Ramp ★★★](#dinosaur-ramp)
 * [Heal Beans ★★★](#heal-beans)
-* [Midrange Heal](#midrange-heal]
+* [Midrange Heal](#midrange-heal)
 
 ## [Amphibious](#rose)
 ![decklist](../!Images/P%20RO%20Amphibious.PNG)
