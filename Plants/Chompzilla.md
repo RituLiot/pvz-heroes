@@ -3,7 +3,7 @@
 * [Bananas](#bananas)
 * [Onion Ramp](#onion-ramp)
 * [Ramp to 6](#ramp-to-6)
-* [Strikethrough](#strikethrough)
+* [Strikethrough ★★](#strikethrough)
 
 ## [Bananas](#chompzilla)
 ![decklist](../!Images/P%20CZ%20Bananas.PNG)
