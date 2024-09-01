@@ -3,7 +3,7 @@
 * [Control Graves](#control-graves)
 * [Pirates](#pirates)
 * [Sports Control](#sports-control)
-* [Swarm](#swarm)
+* [Swarm ★★](#swarm)
 
 ## [Control Graves](#neptuna)
 ![decklist](../!Images/Z%20NE%20Control-Graves.PNG)
