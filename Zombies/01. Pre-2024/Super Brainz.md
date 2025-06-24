@@ -3,7 +3,7 @@
 * [Bounce Mill ★](#bounce-mill)
 * [Dinosaurs Graves ★★★★](#dinosaurs-graves)
 * [Mime Raptor ★★★](#mime-raptor)
-* [Mustached Scientists ★★★★](#mustached-scientists)
+* [Mustached Scientists ★★★](#mustached-scientists)
 * [Tricks ★★★](#tricks)
 
 ## [Bounce Mill](#super-brainz)
