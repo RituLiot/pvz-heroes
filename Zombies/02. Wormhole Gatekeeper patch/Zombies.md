@@ -2,11 +2,11 @@
 * [Brain Freeze: Pets ★](#brain-freeze-pets)
 * [Brainstorm: Quarterly Bonus ★](#brainstorm-quarterly-bonus)
 * [Huge-Gigantacus: Conjure★](#huge-gigantacus-conjure)
-* [★](#)
-* [★](#)
-* [★](#)
-* [★](#)
-* [★](#)
+* [Impfinity: Deadly Splash★](#impfinity-deadly-splash)
+* [Immorticia: Cat Lady OTK ★](#immorticia-cat-lady-otk)
+* [Neptuna: Gargantuars★](#neptuna-gargantuars)
+* [Rustbolt: Sun Bandits★](#rustbolt-sun-bandits)
+* [Z-Mech: Tempo★](#z-mech-tempo)
 
 ## [Brain Freeze: Pets](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20BF%20Pets.PNG)
@@ -17,17 +17,17 @@
 ## [Huge-Gigantacus: Conjure](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20HG%20Conjure.PNG)
 
-## [](#zombies)
+## [Impfinity: Deadly Splash](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20IF%20Deadly%20Splash.PNG)
 
-## [](#zombies)
+## [Immorticia: Cat Lady OTK](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20IM%20Cat%20Lady.PNG)
 
-## [](#zombies)
+## [Neptuna: Gargantuars](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20NE%20Gargantuars.PNG)
 
-## [](#zombies)
+## [Rustbolt: Sun Bandits](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20RB%20Sun%20Bandits.PNG)
 
-## [](#zombies)
+## [Z-Mech: Tempo](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//02.%20Wormhole%20Gatekeeper%20patch/Z%20ZM%20Midrange.PNG)
