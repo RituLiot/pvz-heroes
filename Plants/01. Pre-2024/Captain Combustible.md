@@ -1,5 +1,5 @@
 # Captain Combustible
-![](../!Images/Heroes/Captain_CombustibleH.png)
+![](../../!Images/Heroes/Captain_CombustibleH.png)
 * [Aggro ★★★](#aggro)
 * [Conjure Transform ★★](#conjure-transform)
 * [Control ★](#control)
@@ -7,16 +7,16 @@
 * [Environments ★★★](#environments)
 
 ## [Aggro](#captain-combustible)
-![decklist](../!Images/P%20CC%20Aggro.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20CC%20Aggro.PNG)
 
 ## [Conjure Transform](#captain-combustible)
-![decklist](../!Images/P%20CC%20Conjure-Transform.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20CC%20Conjure-Transform.PNG)
 
 ## [Control](#captain-combustible)
-![decklist](../!Images/P%20CC%20Control.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20CC%20Control.PNG)
 
 ## [Double Peas](#captain-combustible)
-![decklist](../!Images/P%20CC%20Double-Peas.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20CC%20Double-Peas.PNG)
 
 ## [Environments](#captain-combustible)
-![decklist](../!Images/P%20CC%20Environments.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20CC%20Environments.PNG)
