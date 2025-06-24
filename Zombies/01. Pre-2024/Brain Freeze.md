@@ -6,13 +6,13 @@
 * [Pirates](#pirates)
 
 ## [Control Evolution](#brain-freeze)
-![decklist](../../!Images/Z%20BF%20Control-Evolution.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20BF%20Control-Evolution.PNG)
 
 ## [Grave Zombot](#brain-freeze)
-![decklist](../../!Images/Z%20BF%20Control-Gargantuars.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20BF%20Control-Gargantuars.PNG)
 
 ## [Pets](#brain-freeze)
-![decklist](../../!Images/Z%20BF%20Pets.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20BF%20Pets.PNG)
 
 ## [Pirates](#brain-freeze)
-![decklist](../../!Images/Z%20BF%20Graves-Freeze-Pirates.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20BF%20Graves-Freeze-Pirates.PNG)
