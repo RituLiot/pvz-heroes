@@ -2,7 +2,7 @@
 ![](../../!Images/Heroes/ChompzillaH.png)
 * [Bananas ★★](#bananas)
 * [Onion Ramp ★★★★](#onion-ramp)
-* [Ramp to 6 ★★★](#ramp-to-6)
+* [Ramp to 6 ★★★★](#ramp-to-6)
 * [Strikethrough ★★](#strikethrough)
 
 ## [Bananas](#chompzilla)
