@@ -1,9 +1,9 @@
 # Rustbolt
 ![](../../!Images/Heroes/RustboltH.png)
-* [Gargantuars](#gargantuars)
+* [Gargantuars ★★](#gargantuars)
 * [Mustached Professionals ★★★★](#mustached-professionals)
-* [Sports](#sports)
-* [Transform](#transform)
+* [Sports ★★](#sports)
+* [Transform ★★★](#transform)
 
 ## [Gargantuars](#rustbolt)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20RB%20Gargantuars.PNG)
