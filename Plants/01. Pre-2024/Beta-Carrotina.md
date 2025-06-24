@@ -13,10 +13,10 @@
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20BC%20Evolution.PNG)
 
 ## [Freeze](#beta-carrotina)
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/!Images/P%20BC%20Freeze.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20BC%20Freeze.PNG)
 
 ## [Go-Nuts](#beta-carrotina)
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/!Images/P%20BC%20Go-Nuts.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20BC%20Go-Nuts.PNG)
 
 ## [Pecanolith](#beta-carrotina)
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/!Images/P%20BC%20Buff-Pecanolith.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20BC%20Buff-Pecanolith.PNG)
