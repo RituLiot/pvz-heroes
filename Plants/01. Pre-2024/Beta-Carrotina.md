@@ -7,16 +7,16 @@
 * [Pecanolith](#pecanolith)
 
 ## [Amphibious Midrange](#beta-carrotina)
-![decklist](../01.%Pre-2024/!Images/P%20BC%20Amphibious-Midrange.PNG)
+![decklist](../../01.%Pre-2024/!Images/P%20BC%20Amphibious-Midrange.PNG)
 
 ## [Evolution](#beta-carrotina)
-![decklist](../01.%Pre-2024/!Images/P%20BC%20Evolution.PNG)
+![decklist](../../01.%Pre-2024/!Images/P%20BC%20Evolution.PNG)
 
 ## [Freeze](#beta-carrotina)
-![decklist](../01.%Pre-2024/!Images/P%20BC%20Freeze.PNG)
+![decklist](../../01.%Pre-2024/!Images/P%20BC%20Freeze.PNG)
 
 ## [Go-Nuts](#beta-carrotina)
-![decklist](../01.%Pre-2024/!Images/P%20BC%20Go-Nuts.PNG)
+![decklist](../../01.%Pre-2024/!Images/P%20BC%20Go-Nuts.PNG)
 
 ## [Pecanolith](#beta-carrotina)
-![decklist](../01.%Pre-2024/!Images/P%20BC%20Buff-Pecanolith.PNG)
+![decklist](../../01.%Pre-2024/!Images/P%20BC%20Buff-Pecanolith.PNG)
