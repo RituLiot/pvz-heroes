@@ -1,5 +1,5 @@
 # Impfinity
-![](../!Images/Heroes/ImpfinityH.png)
+![](../../!Images/Heroes/ImpfinityH.png)
 * [Aggro](#aggro)
 * [Dancers](#dancers)
 * [Face ★★★](#face)
@@ -8,19 +8,19 @@
 * [Swarm ★★](#swarm)
 
 ## [Aggro](#impfinity)
-![decklist](../!Images/Z%20IF%20Aggro.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20IF%20Aggro.PNG)
 
 ## [Dancers](#impfinity)
-![decklist](../!Images/Z%20IF%20Dancing.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20IF%20Dancing.PNG)
 
 ## [Face](#impfinity)
-![decklist](../!Images/Z%20IF%20Face.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20IF%20Face.PNG)
 
 ## [Graves](#impfinity)
-![decklist](../!Images/Z%20IF%20Graves.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20IF%20Graves.PNG)
 
 ## [Splash](#impfinity)
-![decklist](../!Images/Z%20IF%20Splash.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20IF%20Splash.PNG)
 
 ## [Swarm](#impfinity)
-![decklist](../!Images/Z%20IF%20Swarm.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20IF%20Swarm.PNG)
