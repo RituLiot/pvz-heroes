@@ -13,7 +13,7 @@
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Beans.PNG)
 
 ## [Control](#green-shadow)
-![decklist](.https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Control.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Control.PNG)
 
 ## [Leaves](#green-shadow)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Leaves.PNG)
