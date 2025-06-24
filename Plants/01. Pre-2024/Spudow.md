@@ -1,10 +1,10 @@
 # Spudow
 ![](../../!Images/Heroes/SpudowH.png)
-* [Buff](#buff)
-* [Double Pecanolith](#double-pecanolith)
-* [Environments Midrange](#environments-midrange)
-* [Mushrooms](#mushrooms)
-* [Roots](#roots)
+* [Buff ★★](#buff)
+* [Double Pecanolith ★★★](#double-pecanolith)
+* [Environments Midrange ★★](#environments-midrange)
+* [Mushrooms ★★](#mushrooms)
+* [Roots ★★★](#roots)
 * [Splash ★★★](#splash)
 
 ## [Buff](#spudow)
