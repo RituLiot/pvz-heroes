@@ -1,9 +1,9 @@
 # Impfinity
 ![](../../!Images/Heroes/ImpfinityH.png)
-* [Aggro](#aggro)
-* [Dancers](#dancers)
+* [Aggro ★★★](#aggro)
+* [Dancers ★★](#dancers)
 * [Face ★★★](#face)
-* [Graves](#graves)
+* [Graves ★★★](#graves)
 * [Splash ★★★](#splash)
 * [Swarm ★★](#swarm)
 
