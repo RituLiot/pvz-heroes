@@ -7,7 +7,7 @@
 * [Pecanolith](#pecanolith)
 
 ## [Amphibious Midrange](#beta-carrotina)
-![decklist](../../01.%Pre-2024/!Images/P%20BC%20Amphibious-Midrange.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20BC%20Amphibious-Midrange.PNG)
 
 ## [Evolution](#beta-carrotina)
 ![decklist](../../01.%Pre-2024/!Images/P%20BC%20Evolution.PNG)
