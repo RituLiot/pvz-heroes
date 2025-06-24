@@ -1,10 +1,10 @@
 # Super Brainz
 ![](../../!Images/Heroes/Super_BrainzH.png)
-* [Bounce Mill](#bounce-mill)
+* [Bounce Mill ★](#bounce-mill)
 * [Dinosaurs Graves ★★★★](#dinosaurs-graves)
-* [Mime Raptor](#mime-raptor)
-* [Mustached Scientists](#mustached-scientists)
-* [Tricks](#tricks)
+* [Mime Raptor ★★★](#mime-raptor)
+* [Mustached Scientists ★★★★](#mustached-scientists)
+* [Tricks ★★★](#tricks)
 
 ## [Bounce Mill](#super-brainz)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20SB%20Bounce-Mill.PNG)
