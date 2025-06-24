@@ -1,9 +1,9 @@
 # Brain Freeze
 ![](../../!Images/Heroes/Brain_FreezeH.png)
 * [Control Evolution ★](#control-evolution)
-* [Grave Zombot](#grave-zombot)
+* [Grave Zombot ★★★](#grave-zombot)
 * [Pets ★★](#pets)
-* [Pirates](#pirates)
+* [Pirates ★★★★](#pirates)
 
 ## [Control Evolution](#brain-freeze)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20BF%20Control-Evolution.PNG)
