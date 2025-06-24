@@ -1,5 +1,5 @@
 # Super Brainz
-![](../!Images/Heroes/Super_BrainzH.png)
+![](../../!Images/Heroes/Super_BrainzH.png)
 * [Bounce Mill](#bounce-mill)
 * [Dinosaurs Graves ★★★★](#dinosaurs-graves)
 * [Mime Raptor](#mime-raptor)
@@ -7,16 +7,16 @@
 * [Tricks](#tricks)
 
 ## [Bounce Mill](#super-brainz)
-![decklist](../!Images/Z%20SB%20Bounce-Mill.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20SB%20Bounce-Mill.PNG)
 
 ## [Dinosaurs Graves](#super-brainz)
-![decklist](../!Images/Z%20SB%20Dinosaur-Graves.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20SB%20Dinosaur-Graves.PNG)
 
 ## [Mime Raptor](#super-brainz)
-![decklist](../!Images/Z%20SB%20Mime-Raptor.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20SB%20Mime-Raptor.PNG)
 
 ## [Mustached Scientists](#super-brainz)
-![decklist](../!Images/Z%20SB%20Mustache-Science.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20SB%20Mustache-Science.PNG)
 
 ## [Tricks](#super-brainz)
-![decklist](../!Images/Z%20SB%20Tricks.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20SB%20Tricks.PNG)
