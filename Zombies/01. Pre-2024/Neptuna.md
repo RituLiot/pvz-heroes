@@ -1,8 +1,8 @@
 # Neptuna
 ![](../../!Images/Heroes/NeptunaH.png)
-* [Control Graves](#control-graves)
-* [Pirates](#pirates)
-* [Sports Control](#sports-control)
+* [Control Graves ★★](#control-graves)
+* [Pirates ★★★](#pirates)
+* [Sports Control ★★★](#sports-control)
 * [Swarm ★★](#swarm)
 
 ## [Control Graves](#neptuna)
