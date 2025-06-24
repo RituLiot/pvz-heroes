@@ -1,10 +1,10 @@
 # Z-Mech
 ![](../../!Images/Heroes/Z-MechH.png)
-* [Aggro](#aggro)
-* [Control Feast](#control-feast)
-* [Dinosaurs](#dinosaurs)
-* [Evolution](#evolution)
-* [Swarm](#swarm)
+* [Aggro ★](#aggro)
+* [Control Feast ★★](#control-feast)
+* [Dinosaurs ★★★](#dinosaurs)
+* [Evolution ★★](#evolution)
+* [Swarm ★★★](#swarm)
 
 ## [Aggro](#z-mech)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20ZM%20Aggro.PNG)
