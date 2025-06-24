@@ -1,5 +1,5 @@
 # Z-Mech
-![](../!Images/Heroes/Z-MechH.png)
+![](../../!Images/Heroes/Z-MechH.png)
 * [Aggro](#aggro)
 * [Control Feast](#control-feast)
 * [Dinosaurs](#dinosaurs)
@@ -7,16 +7,16 @@
 * [Swarm](#swarm)
 
 ## [Aggro](#z-mech)
-![decklist](../!Images/Z%20ZM%20Aggro.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20ZM%20Aggro.PNG)
 
 ## [Control Feast](#z-mech)
-![decklist](../!Images/Z%20ZM%20Control-Feast.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20ZM%20Control-Feast.PNG)
 
 ## [Dinosaurs](#z-mech)
-![decklist](../!Images/Z%20ZM%20Dinosaur.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20ZM%20Dinosaur.PNG)
 
 ## [Evolution](#z-mech)
-![decklist](../!Images/Z%20ZM%20Evolution.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20ZM%20Evolution.PNG)
 
 ## [Swarm](#z-mech)
-![decklist](../!Images/Z%20ZM%20Swarm.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/Z%20ZM%20Swarm.PNG)
