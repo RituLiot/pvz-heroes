@@ -2,7 +2,7 @@
 ![](../../!Images/Heroes/ImmorticiaH.png)
 * [Evolution ★★](#evolution)
 * [Hunt ★★](#hunt)
-* [Teleport Zombot](#teleport-zombot)
+* [Teleport Zombot ★★★](#teleport-zombot)
 * [Tricks ★★★★](#tricks)
 
 ## [Evolution](#immorticia)
