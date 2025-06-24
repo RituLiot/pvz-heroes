@@ -1,5 +1,5 @@
 # Spudow
-![](../!Images/Heroes/SpudowH.png)
+![](../../!Images/Heroes/SpudowH.png)
 * [Buff](#buff)
 * [Double Pecanolith](#double-pecanolith)
 * [Environments Midrange](#environments-midrange)
@@ -8,19 +8,19 @@
 * [Splash ★★★](#splash)
 
 ## [Buff](#spudow)
-![decklist](../!Images/P%20SP%20Buff.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20SP%20Buff.PNG)
 
 ## [Double Pecanolith](#spudow)
-![decklist](../!Images/P%20SP%20Double-Pecanolith.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20SP%20Double-Pecanolith.PNG)
 
 ## [Environments Midrange](#spudow)
-![decklist](../!Images/P%20SP%20Midrange-Environments.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20SP%20Midrange-Environments.PNG)
 
 ## [Mushrooms](#spudow)
-![decklist](../!Images/P%20SP%20Mushrooms.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20SP%20Mushrooms.PNG)
 
 ## [Roots](#spudow)
-![decklist](../!Images/P%20SP%20Roots.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20SP%20Roots.PNG)
 
 ## [Splash](#spudow)
-![decklist](../!Images/P%20SP%20Splash.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20SP%20Splash.PNG)
