@@ -1,5 +1,5 @@
 # Green Shadow
-![](../!Images/Heroes/Green_ShadowH.png)
+![](../../!Images/Heroes/Green_ShadowH.png)
 * [Aggro Peas ★★](#aggro-peas)
 * [Beans ★★★](#beans)
 * [Control ★★](#control)
@@ -7,16 +7,16 @@
 * [Tempo/Value ★★★](#tempovalue)
 
 ## [Aggro Peas](#green-shadow)
-![decklist](../!Images/P%20GS%20Aggro-Peas.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Aggro-Peas.PNG)
 
 ## [Beans](#green-shadow)
-![decklist](../!Images/P%20GS%20Beans.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Beans.PNG)
 
 ## [Control](#green-shadow)
-![decklist](../!Images/P%20GS%20Control.PNG)
+![decklist](.https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Control.PNG)
 
 ## [Leaves](#green-shadow)
-![decklist](../!Images/P%20GS%20Leaves.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Leaves.PNG)
 
 ## [Tempo/Value](#green-shadow)
-![decklist](../!Images/P%20GS%20Aggro-Control.PNG)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images/01.%20Pre-2024/P%20GS%20Aggro-Control.PNG)
