@@ -3,6 +3,7 @@ Collection of decks that I've enjoyed playing over the years.
 ## Time periods
 1. Pre-2024: Before the first new balance patch
 2. Wormhole Gatekeeper: After QB bugfix, before the FMN/PSF patch
+3. Sun-Shroom meta: When Sun-Shroom costs 1
 
 ## Acknowledgments
 * [Fry Em Up](https://www.youtube.com/@FryEmUpGaming) - the biggest PvZH YouTuber, I frequently borrow their decks for personal use and fun. If you ain't watching him, you're seriously missing out.
