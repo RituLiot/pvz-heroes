@@ -16,7 +16,7 @@
 * [Rose: Ramp ★★★★★](#rose-rampbait)
 * [Rose: Amphibious Midrange ★★★](#rose-waterworks)
 * [Solar Flare: Environment Aggro ★★](#solar-flare-fury-of-the-cosmoss)
-* [Solar Flare: Transform ★★★](#solar-flare-molecone)
+* [Solar Flare: Transform ★★★](#solar-flare-mole-cone)
 * [Spudow: Midrange Roots ★★★★](#spudow-roots-and-balance)
 * [Wall-Knight: Roots Aloesaurus ★★](#wall-kinght-aloe-starch)
 * [Wall-Knight: Midrange Ramp ★★★](#wall-kinght-rampid)
