@@ -69,6 +69,7 @@ Author: SnortingSalt
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20PB%20Teledancers.jpg)
 
 ## [Professor Brainstorm: Throwing Fest](#zombies)
+Author: FryEmUp
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20PB%20Throwing%20Fest.jpg)
 
 ## [Rustbolt: Jimbo](#zombies)
