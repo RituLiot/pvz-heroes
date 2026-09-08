@@ -3,7 +3,7 @@
 * [Beta-Carrotina: Dino Beans ★★★](#beta-carrotina-dino-beans)
 * [Captain Combustible: Bonus Attacks ★★★★](#captain-combustible-coffee)
 * [Captain Combustible: Imitater Doubled Mint ★★](#captain-combustible-doubled-doubled-mint)
-* [Captain Combustible: Whipped ★★★](#captain-combustible-whipped)
+* [Captain Combustible: Midrange ★★★](#captain-combustible-whipped)
 * [Citron: Face Nuts ★★](#citron-nut-planet)
 * [Chompzilla: Podfigher ★★](#chompzilla-pea-pond)
 * [Chompzilla: Strikethrough ★★★](#chompzilla-victory-strike)
