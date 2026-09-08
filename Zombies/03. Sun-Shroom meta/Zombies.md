@@ -7,12 +7,13 @@
 * [Huge-Gigantacus: Gravestone Pirates ★★★★](#huge-gigantacus-gps)
 * [Huge-Gigantacus: Trickster Mustaches ★★](#huge-gigantacus-trickstache)
 * [Impfinity: Sugary Treat ★★](#impfinity-sugar-baby)
-* [Immorticia: Midrange Science ★★★](#immorticia-yeah-science!)
+* [Immorticia: Midrange Science ★★★](#immorticia-yeah-science)
 * [Neptuna: Warlord Gravedigger ★★★](#neptuna-digger-mixer)
 * [Neptuna: Aggro Midrange ★★★★](#neptuna-press-the-advantage)
 * [Professor Brainstorm: Mustaches Valkyrie ★★★★★](#professor-brainstorm-best-deck-in-game)
 * [Professor Brainstorm: Zom-Blob Valkyrie ★★★](#professor-brainstorm-blobokyrie)
 * [Professor Brainstorm: Teleport Dancers ★★★](#professor-brainstorm-teledancers)
+* [Professor Brainstorm: GTI Gargantuar Fest ★★★](#professor-brainstorm-throwing-fest)
 * [Rustbolt: Trickster ★★★](#rustbolt-jimbo)
 * [Super Brainz: Midrange Mustaches ★★](#super-brainz-ache-musts)
 * [Smash: Zombie Control ★★](#smash-midrange-control)
@@ -66,6 +67,9 @@ Author: SnortingSalt
 
 ## [Professor Brainstorm: Teledancers](#zombies)
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20PB%20Teledancers.jpg)
+
+## [Professor Brainstorm: Throwing Fest](#zombies)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20PB%20Throwing%20Fest.jpg)
 
 ## [Rustbolt: Jimbo](#zombies)
 Author: Ken Martin
