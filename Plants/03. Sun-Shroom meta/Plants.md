@@ -3,6 +3,7 @@
 * [Beta-Carrotina: Dino Beans ★★★](#beta-carrotina-dino-beans)
 * [Captain Combustible: Bonus Attacks ★★★★](#captain-combustible-coffee)
 * [Captain Combustible: Imitater Doubled Mint ★★](#captain-combustible-doubled-doubled-mint)
+* [Captain Combustible: Whipped ★★★](#captain-combustible-whipped)
 * [Citron: Face Nuts ★★](#citron-nut-planet)
 * [Chompzilla: Podfigher ★★](#chompzilla-pea-pond)
 * [Chompzilla: Strikethrough ★★★](#chompzilla-victory-strike)
@@ -31,6 +32,10 @@ Author: Lolatopia
 ## [Captain Combustible: Doubled Doubled Mint](#plants)
 Author: Sybertox Gaming
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20CC%20Doubled%20Doubled%20Mint.jpg)
+
+## [Captain Combustible: Whipped](#plants)
+Author: FryEmUp
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20CC%20Whipped.jpg)
 
 ## [Citron: Nut Planet](#plants)
 Author: Sivta Tres
