@@ -20,8 +20,8 @@
 * [Solar Flare: Environment Aggro ★★](#solar-flare-fury-of-the-cosmoss)
 * [Solar Flare: Transform ★★★](#solar-flare-mole-cone)
 * [Spudow: Midrange Roots ★★★★](#spudow-roots-and-balance)
-* [Wall-Knight: Roots Aloesaurus ★★](#wall-kinght-aloe-starch)
-* [Wall-Knight: Midrange Ramp ★★★](#wall-kinght-rampid)
+* [Wall-Knight: Roots Aloesaurus ★★](#wall-knight-aloe-starch)
+* [Wall-Knight: Midrange Ramp ★★★](#wall-knight-rampid)
 
 ## [Beta-Carrotina: Dino Beans](#plants)
 Author: Lolatopia
