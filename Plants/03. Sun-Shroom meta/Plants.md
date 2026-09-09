@@ -14,6 +14,7 @@
 * [Green Shadow: Peas, Leafs and Beans ★★★★](#green-shadow-plb)
 * [Nightcap: Control ★★](#nightcap-stroll)
 * [Nightcap: Control 2 ★★★](#nightcap-stroll-harder)
+* [Rose: Magic Beans ★★](#rose-mb)
 * [Rose: Ramp ★★★★★](#rose-rampbait)
 * [Rose: Amphibious Midrange ★★★](#rose-waterworks)
 * [Solar Flare: Environment Aggro ★★](#solar-flare-fury-of-the-cosmoss)
@@ -72,6 +73,10 @@ Author: Sivta Tres
 ## [Nightcap: Stroll Harder](#plants)
 Author: Xera & Natz
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20NC%20Stroll%20Harder.jpg)
+
+## [Rose: MB](#plants)
+Author: Boris and Xara
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20RO%20MB.jpg)
 
 ## [Rose: Rampbait](#plants)
 Author: FryEmUp
