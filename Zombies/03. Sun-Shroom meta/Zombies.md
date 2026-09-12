@@ -7,6 +7,7 @@
 * [Huge-Gigantacus: Gravestone Pirates ★★★★](#huge-gigantacus-gps)
 * [Huge-Gigantacus: Trickster Mustaches ★★](#huge-gigantacus-trickstache)
 * [Impfinity: Sugary Treat ★★](#impfinity-sugar-baby)
+* [Immorticia: Mustaches ★★★](#immorticia-aggrache)
 * [Immorticia: Midrange Science ★★★](#immorticia-yeah-science)
 * [Neptuna: Warlord Gravedigger ★★★](#neptuna-digger-mixer)
 * [Neptuna: Aggro Midrange ★★★★](#neptuna-press-the-advantage)
@@ -47,6 +48,10 @@ Author: FryEmUp
 ## [Impfinity: Sugar, Baby!](#zombies)
 Author: FryEmUp
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20IF%20Sugar%2C%20Baby!.jpg)
+
+## [Immorticia: Aggrache](#zombies)
+Author: FryEmUp
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20IM%20Aggrache.jpg)
 
 ## [Immorticia: Yeah, Science!](#zombies)
 Author: Flag zombie
