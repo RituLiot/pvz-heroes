@@ -5,6 +5,7 @@
 * [Electric Boogaloo: Feast Control ★★★](#electric-boogaloo-late-zomboss)
 * [Electric Boogaloo: Gifts Control ★★](#electric-boogaloo-ungifted-gifts)
 * [Huge-Gigantacus: Gravestone Pirates ★★★★](#huge-gigantacus-gps)
+* [Huge-Gigantacus: Teleimps ★★★★](#huge-gigantacus-telepills)
 * [Huge-Gigantacus: Trickster Mustaches ★★](#huge-gigantacus-trickstache)
 * [Impfinity: Sugary Treat ★★](#impfinity-sugar-baby)
 * [Immorticia: Mustaches ★★★](#immorticia-aggrache)
@@ -40,6 +41,10 @@ Author: Xera & Durga
 ## [Huge-Gigantacus: GPS](#zombies)
 Author: Xera & Shortbow
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20HG%20GPS.jpg)
+
+## [Huge-Gigantacus: Telepills](#zombies)
+Author: Sushi
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/Z%20HG%20Telepills.png)
 
 ## [Huge-Gigantacus: Trickstache](#zombies)
 Author: FryEmUp
