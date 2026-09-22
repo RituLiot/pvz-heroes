@@ -95,7 +95,7 @@ Author: Zombot Central
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SF%20Mole-Cone.jpg)
 
 ## [Spudow: Roots and Balance](#plants)
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Roots%20and%20Balance.jpg)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Roots%20and%20Balance.png)
 
 ## [Spudow: Steel Berries](#plants)
 Author: FryEmUp
