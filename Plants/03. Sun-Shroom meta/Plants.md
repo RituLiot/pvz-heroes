@@ -20,7 +20,7 @@
 * [Solar Flare: Environment Aggro ★★](#solar-flare-fury-of-the-cosmoss)
 * [Solar Flare: Transform ★★★](#solar-flare-mole-cone)
 * [Spudow: Midrange Roots ★★★★](#spudow-roots-and-balance)
-* [Spudow: Berries ★★★★](#spudow-steel-berries)
+* [Spudow: Berries ★★](#spudow-steel-berries)
 * [Wall-Knight: Roots Aloesaurus ★★](#wall-knight-aloe-starch)
 * [Wall-Knight: Midrange Ramp ★★★](#wall-knight-rampid)
 
@@ -95,11 +95,11 @@ Author: Zombot Central
 ![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SF%20Mole-Cone.jpg)
 
 ## [Spudow: Roots and Balance](#plants)
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Roots%20and%20Balance.png)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Roots%20and%20Balance.jpg)
 
 ## [Spudow: Steel Berries](#plants)
 Author: FryEmUp
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Steel%20%Berries.jpg)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Steel%20%Berries.png)
 
 ## [Wall-Knight: Aloe Starch](#plants)
 Author: FryEmUp
