@@ -99,7 +99,7 @@ Author: Zombot Central
 
 ## [Spudow: Steel Berries](#plants)
 Author: FryEmUp
-![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Steel%20%Berries.png)
+![decklist](https://github.com/RituLiot/pvz-heroes/blob/main/!Images//03.%20Sun-Shroom%20meta/P%20SP%20Steel%20Berries.png)
 
 ## [Wall-Knight: Aloe Starch](#plants)
 Author: FryEmUp
